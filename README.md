@@ -11,7 +11,7 @@ The Hostel Outpass Management System is a mobile application designed to streaml
 
 ## Technologies Used
 
-- **Frontend**: HTML, CSS, JavaScript
+- **Frontend**: ReactNative
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
 - **Authentication**: JSON Web Tokens (JWT)
@@ -21,7 +21,14 @@ The Hostel Outpass Management System is a mobile application designed to streaml
 
 To install and run the Hostel Outpass Management System locally, follow these steps:
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/hostel-outpass-management.git
+1. Download the file:
+2. Install packages:
+    npm install
+3. Change the ip address in App.js file:
+    'http://Enter your ip Address:8080/
+4.Run the Homs folder :
+      cd homs
+      npm start
+5.Run the server folder :
+      cd server
+      node index
