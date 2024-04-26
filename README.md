@@ -21,14 +21,10 @@ The Hostel Outpass Management System is a mobile application designed to streaml
 
 To install and run the Hostel Outpass Management System locally, follow these steps:
 
-1. Download the file:
-2. Install packages:
-    1.npm install
-3. Change the ip address in App.js file:
-    1.http://Enter your ip Address:8080/
-4.Run the Homs folder :
-      1.cd homs
-      2.npm start
-5.Run the server folder :
-      1.cd server
-      2.node index
+1. **Download the file**:
+
+2. **Install packages**:
+
+   ```bash
+   npm install
+
