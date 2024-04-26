@@ -23,14 +23,12 @@ To install and run the Hostel Outpass Management System locally, follow these st
 
 1. Download the file:
 2. Install packages:
-    npm install
+    1.npm install
 3. Change the ip address in App.js file:
-    http://Enter your ip Address:8080/
-   
+    1.http://Enter your ip Address:8080/
 4.Run the Homs folder :
-      cd homs
-      npm start
-      
+      1.cd homs
+      2.npm start
 5.Run the server folder :
-      cd server
-      node index
+      1.cd server
+      2.node index
